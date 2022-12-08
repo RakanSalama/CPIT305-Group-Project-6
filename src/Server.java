@@ -27,7 +27,7 @@ public class Server {
                 thread.start();
             }
         } catch (Exception e) {
-            System.out.println("ERROR !!"); // Mainly this msg will apear if the we run the server more than one time
+            System.out.println("ERROR !!!"); // Mainly this msg will apear if the we run the server more than one time
         }
     }
 }

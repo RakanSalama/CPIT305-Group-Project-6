@@ -40,7 +40,7 @@ public class Client {
                     writer.println(ClientInput);                        // Stop signs, if it was. It will stop to send an input to the server.
                 }
             }
-
+            
         } catch (ConnectException e) { // if the server was offline it will handel it
             System.out.println("Server is offline");
         }

@@ -191,9 +191,9 @@ public class MyThread extends Thread {
                     }
                 // ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
                     else if (choice.equalsIgnoreCase("EXIT") || choice.equals("6")) {
-                        writer.println("===================================");
-                        writer.println("| Thank you for using our system  |");
-                        writer.println("===================================");
+                        writer.println("====================================");
+                        writer.println("| Thank you for using our system    |");
+                        writer.println("====================================");
                         break;
                     }
 

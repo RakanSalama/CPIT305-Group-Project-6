@@ -1,13 +1,11 @@
 # CPIT305 Course Project
 ## More details about your project
 There are many titles that can fit with our system but we prefer to stick with the name "Booking Management System". Most parts of the project will be implemented and checked together but we will distribute the work and each one of us will focus on a topic. Rakan will focus on streamfiles and database, Abdulrahman will focus on multithreading and exeptions, and Moath will focus on network programming. Our system will come into use  when a customer asks the receptionist for a room. The system will show the receptionist available rooms with their details ( room type, price, and information about the room). After the customer chooses a room and completes payment, the receptionist will book the room and add customer information to that room. After this process, the database will be updated.
+
 ## Group Members
 - Rakan Adnan Salama / 2037276
 - Abdulrahman Ihab Nahfawi / 2035397
 - Moath Mosleh Alsolami / 1935160
-
-## More details about your project
-There are many titles that can fit with our system but we prefer to stick with the name "Booking Management System". Most parts of the project will be implemented and checked together but we will distribute the work and each one of us will focus on a topic. Rakan will focus on streamfiles and database, Abdulrahman will focus on multithreading and exeptions, and Moath will focus on network programming. Our system will come into use  when a customer asks the receptionist for a room. The system will show the receptionist available rooms with their details ( room type, price, and information about the room). After the customer chooses a room and completes payment, the receptionist will book the room and add customer information to that room. After this process, the database will be updated.
 
 ## About "Hotel Booking System":
 Our system will ask the receptionist to enter the username and password. If it is wrong, the system will not make the receptionist enter the system. After that, the receptionist will see the main menu which gives him 6 options which are: 
